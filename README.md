@@ -3,4 +3,4 @@ A responsive landing page using HTML and Sass. This was a school assignment wher
 
 Live Site URL: https://malin-nilsson.github.io/Neatly-LandingPage/
 
-![](src/images/screenshot.jpg)
+![](./screenshot.jpg)
